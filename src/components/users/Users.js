@@ -27,15 +27,4 @@ const userStyle = {
   gridTemplateColumns: 'repeat(3, 1fr)',
   gridGap: '1rem'
 }
-
-// state = {
-//   users: [
-//     {
-//       id: '4',
-//       login: 'doctoron',
-//       avatar_url: 'https://avatars0.githubusercontent.com/u/42006946?s=460&v=4',
-//       html_url: 'https://github.com/doctoron'
-//     }
-//   ]
-// }
 export default Users
