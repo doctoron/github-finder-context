@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This React application will located Github users by name or username and is deployed on Netlify at 
+https://githubfinder2181825.netlify.com
+
+The application was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) without any third party state manager (i.e. Redux).  React Hooks was employed including the Context API with useReducer, useContext, useState and useEffect.
 
 ## Available Scripts
 
